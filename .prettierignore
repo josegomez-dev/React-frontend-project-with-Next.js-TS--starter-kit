@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+coverage
+.next
+
+# Ignore all files in the following directories:
+node_modules
+public
+
+# Ignore specific files:
+package-lock.json
+yarn.lock
